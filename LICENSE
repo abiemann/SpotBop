@@ -1,0 +1,77 @@
+SPOTBOP PORTFOLIO EVALUATION LICENSE
+Version 1.0, August 2026
+
+Copyright (c) 2026 Alexander Biemann. All rights reserved.
+
+This is a source-visible portfolio license. It is not an open-source license.
+
+1. Covered Materials
+
+"Covered Materials" means the source code, documentation, and other material in
+this repository for which Alexander Biemann owns or controls the copyright.
+
+Covered Materials do not include software dependencies, trademarks, or any
+other third-party material. Those materials remain subject to their own terms.
+See THIRD_PARTY_NOTICES.md. If there is any conflict, the third party's terms
+control for that third-party material.
+
+2. Limited Portfolio-Evaluation Permission
+
+Subject to this license, you may:
+
+* view the Covered Materials;
+* download or clone one copy for your personal, non-commercial evaluation of
+  the developer's work; and
+* compile and run that copy locally only as reasonably necessary for that
+  evaluation.
+
+You may make temporary local changes solely to inspect, test, or review the
+Covered Materials, but you may not publish or distribute those changes.
+
+3. GitHub Service Permissions
+
+Permissions that GitHub's Terms of Service grant GitHub and GitHub users to
+host, view, and fork a public repository through the GitHub service continue to
+apply independently. Nothing in this license is intended to withdraw or
+restrict those platform permissions.
+
+A GitHub fork does not grant any additional right to use, modify, redistribute,
+publish, sublicense, sell, or commercialize the Covered Materials outside the
+permissions supplied by GitHub's Terms of Service and Section 2 above.
+
+4. No Other Permission
+
+Except for the limited permission above, you may not:
+
+* copy, modify, adapt, translate, or create derivative works from the Covered
+  Materials;
+* distribute, publish, sublicense, sell, rent, lease, or transfer the Covered
+  Materials;
+* use the Covered Materials, in whole or in part, in another application,
+  product, service, dataset, training corpus, or commercial activity;
+* deploy or host a playable or executable version for third parties; or
+* remove or alter copyright, attribution, or license notices.
+
+No patent, trademark, trade-dress, publicity, or other rights are granted.
+"SpotBop" and its associated branding are not licensed for reuse.
+
+5. Third-Party Material
+
+No permission is granted under this license for third-party material. You are
+responsible for obtaining any permission required directly from the applicable
+rights holder.
+
+6. Termination
+
+Your permission under this license ends automatically if you breach its terms.
+On termination, you must stop using and delete copies of the Covered Materials,
+except for copies that GitHub retains or makes available under its Terms of
+Service.
+
+7. Disclaimer
+
+THE COVERED MATERIALS ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED
+BY LAW, THE COPYRIGHT HOLDER WILL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE COVERED MATERIALS OR THEIR USE.
